@@ -2,3 +2,4 @@
 
 * Craneo Rojo
 * Venom
+* Capitán America
