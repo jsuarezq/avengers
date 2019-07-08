@@ -19,3 +19,7 @@
 * Nick Fury
 * Picoteros
 * Pico de oro
+* Heores
+* De
+* Prueba
+* Numero de oro
