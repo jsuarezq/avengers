@@ -17,5 +17,3 @@
 * Wasp
 * Antman
 * Nick Fury
-* Nico Arrerro
-* Atomsito
