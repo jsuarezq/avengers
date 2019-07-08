@@ -19,3 +19,6 @@
 * Nick Fury
 * Picoteros
 * Pico de oro
+* Hola perros
+* Como estan
+* yo bien
